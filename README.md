@@ -1,2 +1,2 @@
-# This is my project file 
-print("Hello World")
+# HELLO EVERYONE THIS IS MY PROJECT 
+"IN THIS PROJECT I DO VARIOUS THING ABOUT PYTHON GAMES"
